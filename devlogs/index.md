@@ -1,9 +1,12 @@
 # Devlogs
 Hey, there are your devlogs. If you curious what are we doing now you can read it below! 😊
 
+### 27.06.2023
+- Update wasn't pushed out without some frictions. Version 21 is live now on the store with some changes like 10+ new languages and loading screen to take some work from main thread. Now, then all nessecary things are done we can focus on more fun aspects, like Services, new game modes and social stuff!
+
 ### 25.06.2023
 - You guys are going crazy! We're 4 days from release and about to beat 100 downloads! We're very proud!
-- Today new translations are going live. We also translated Store Front to new languages so our players will be able to easier access Cake Defense!
+- Today new translations are going live (we hope so). We also translated Store Front to new languages so our players will be able to easier access Cake Defense!
 
 ### 24.06.2023
 - We started our devlog! Nice to see you all here! We're planning to push update.
