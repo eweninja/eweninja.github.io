@@ -1,5 +1,8 @@
 # Devlogs
-Hey, there are your devlogs. If you curious what are we doing now you can read it below! 😊
+Hey, there are our devlogs. If you curious what are we doing now you can read it below! 😊
+
+### 07.07.2023
+- It's been 10 days since last devlog. We are working hard on new features of Cake Defense: Ants Invasion. While CD:AI updates are still in progress we want to let you guys know that we're working on new game. We can't say more about it than two words: `sheep` and `space`. The game is planned to be released in this month (July). Keep your finggers crossed! We hope that our new project will give you some fun!
 
 ### 27.06.2023
 - Update wasn't pushed out without some frictions. Version 21 is live now on the store with some changes like 10+ new languages and loading screen to take some work from main thread. Now, then all nessecary things are done we can focus on more fun aspects, like Services, new game modes and social stuff!
